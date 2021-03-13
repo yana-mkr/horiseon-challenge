@@ -8,3 +8,5 @@ Centered footer in CSS
 Alt elements to images
 Line 81 -- to <aside>
 Line 27 -- changed to <section>
+Changed .benefit- to aside in CSS
+Changed .benefit- img to aside img
